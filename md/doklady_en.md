@@ -11,7 +11,7 @@
 It is still worth it to try to change your documents, taking legal action of needed!
 
 <!-- Ak vám nevybavia žiadosť o zmenu rodného čísla pýtajte si rozhodnutie písomne. Ak odmietnu aj to podajte na mieste túto žiadosť: -->
-If they do not process your request to change your personal identification number (rodné číslo), then ask for that decision in writing. If they refues even that, submit the following application right then and there:
+If they do not process your request to change your personal identification number (rodné číslo), then ask for that decision in writing. If they refuse even that, submit the following application right then and there:
 
 Dňa \[date\] som na Matričnom úrade [name of municipality] podal/a žiadosť o zmenu rodného čísla v zmysle zákona č. 301/1995 Z. z. o rodnom čísle, na základe doloženého lekárskeho posudku o zmene pohlavia.
 
@@ -20,7 +20,7 @@ Príslušný pracovník mi ústne oznámil, že žiadosti nebude vyhovené.
 Týmto žiadam o vydanie písomného rozhodnutia v zmysle § 46 a nasl. zákona č. 71/1967 Zb. Správny poriadok, aby som mohol/la využiť riadne opravné prostriedky.
 
 S pozdravom
-\[name, adress, date, signature\]
+\[name, address, date, signature\]
 
 <!-- Vytlačte si túto žiadosť dva krát a jednu (svoju kópiu) si nechajte potvrdiť. -->
 Print this request out twice and have once copy (your copy) validated.
