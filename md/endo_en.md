@@ -1,0 +1,133 @@
+<!-- # Endokrinológia -->
+
+<!-- ## Ako to prebieha -->
+<!-- V rámci diagnostiky treba klasické endokrinologické vyšetrenie, ktoré môže vykonať hociktorý endokrinológ. Vezme sa krv, urobí sa USG štítnej žľazy, rozhovor o zdravotnom stave. U niektorých endokrinológov sa treba pripraviť na úplné obnaženie (Kollerová, potencionálne aj Kalafutová). -->
+
+<!-- Ak preferuješ, môžeš sa rovno objednať k tým lekárom, ktorí nastavujú hormonálnu liečbu. -->
+
+<!-- Ak užívaš hormonálnu antikoncepciu, poraď sa pri objednávaní na vyšetrenie, že či ju máš vysadiť a kedy. -->
+
+<!-- Ak užívaš DIY, je potrebné ich pred prvým vyšetrením na nejaký čas vysadiť, lebo všetci endokrinológovia na Slovensku chcú vidieť pôvodné hodnoty bez HRT. -->
+
+<!-- ## Poskytovatelia - aj s hormonálnou liečbou -->
+
+<!--[MUDr. Jana Kollerová](https://endokrinologiaraca.wordpress.com/){.pixel-button-smol}  -->
+
+<!-- &emsp;**Bratislava**    
+&emsp;Tbiliská 7711/6  
+&emsp;EndoHep s.r.o.  
+&emsp;endokrinologia.raca@gmail.com   
+&emsp;Čakacia doba na termín cca. 2 mesiace  
+&emsp;Pri prvom objednávaní treba ihneď spomenúť, že si transrodový človek a riešiš začatie hormonálnej liečby. Lekárka všeobecne neberie nových pacientov pokiaľ nie sú z Rače, avšak transrodoví ľudia sú výnimka. Ak užívaš hormonálnu antikoncepciu, poraď sa pri objednávaní na vyšetrenie, že či ju máš vysadiť a kedy. Cena za prvé objednanie je 40 eur, ročný poplatok okolo 12 eur. -->
+
+* * *
+
+<!--[MUDr. Iveta Kalafutová](http://endokrinologiasro.sk/){.pixel-button-smol}  -->
+
+<!-- &emsp;**Bratislava**  
+&emsp;Švabinského 15 a 17  
+&emsp;Endokrinológia s.r.o.  
+&emsp;sestricka@endokrinologiasro.sk  
+&emsp;Čakacia doba na termín 2 mesiace. Poplatok za každé stretnutie, ktoré je dohodnuté na konkrétny čas (13 eur) -->
+
+* * *
+
+<!--[MUDr. Vladislav Volek](http://gamamed.sk/kontakt/){.pixel-button-smol}  -->
+
+<!-- &emsp;**Banská Bystrica**  
+&emsp;Námestie Ludvíka Svobodu č.21   
+&emsp;Gamamed  
+&emsp;048/423 20 06  
+&emsp;čakacia doba 3 mesiace  -->
+
+* * *
+
+<!--[MUDr. Eva Némethová](https://www.e-vuc.sk/ttsk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/dunajska-streda/endokrinologicka-ambulancia-zlate-klasy-mediprofi.html?page_id=91691){.pixel-button-smol}  -->
+
+<!-- &emsp;**Zlaté Klasy**  
+&emsp;Poštová  778/2  
+&emsp;+421910616473  
+&emsp;aj maďarsky hovoriaca  -->
+
+* * *
+
+<!--[MUDr. Simona Ružináková](https://pentahospitals.sk/zamestnanec/mudr-simona-ruzinakova/){.pixel-button-smol}  -->
+
+<!-- &emsp;**Bratislava**  
+&emsp;ProCare Centrál  
+&emsp;na priamu platbu  
+&emsp;+421 2 3904 9201  
+&emsp;+421 907 888 999​​  -->
+
+* * *
+
+<!--[doktorpro - MUDr. Beáta Gráfová](https://doktorpro.sk/doctors/beata-grafova){.pixel-button-smol}  -->
+
+<!-- &emsp;**Bratislava**  
+&emsp;klinika doktorpro - Ružinovská 40  
+&emsp;objednať sa na stránke alebo na 0800200000  
+&emsp;na priamu platbu, ceny za jednotlivé vyšetrenia sa líšia, pozri na stránke. Bez zmluvy s poisťovňami, hradíš plnú cenu za lieky  
+&emsp;nový kontakt, nemáme zatiaľ veľa informácii, napíšte vaše skúsenosti prosím na [tranziciask@protonmail.com](mailto:tranziciask@protonmail.com)  -->
+
+
+<!-- ## Len vyšetrenie, nevedia nastaviť hormonálnu liečbu -->
+<!--[Intend MUDr. Vilma Voglová](https://www.e-vuc.sk/tsk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/trencin/endokrinologicka-ambulancia-mudr.-vilma-voglova-trencin-intend.html?page_id=73310){.pixel-button-smol}  -->
+
+<!-- &emsp;**Trenčín**  
+&emsp;K dolnej stanici 709  
+&emsp;032/ 652 69 59  -->
+
+* * *
+
+<!--[MarMedico MUDr. Jana Trgalová](http://www.marmedico.sk/){.pixel-button-smol}  -->
+
+<!-- &emsp;**Nové Mesto nad Váhom**  
+&emsp;Piešťanská 24  
+&emsp;endokrinologia@marmedico.sk  -->
+
+* * *
+
+<!--[MUDr. Judita Hrabčáková](https://www.azet.sk/firma/212176/mudr-judita-hrabcakova-jek-spol-s-r-o/){.pixel-button-smol}  -->
+
+<!-- &emsp;**Prešov**  
+&emsp;Sládkovičova 38  
+&emsp;051/ 772 18 68  -->
+
+* * *
+
+<!-- ​[MUDr. Patrícia Perunová](https://www.lekari.sk/kosice/endokrinolog/mudr-patricia-perunova){.pixel-button-smol}  -->
+
+<!-- &emsp;**Košice**  
+&emsp;Rastislavova 45  
+&emsp;Poliklinika JUH   
+&emsp;0948 448 443  -->
+
+* * * 
+
+<!--[Gyneko Plus MUDr. Marína Hoppanová](https://www.gynendo.sk/){.pixel-button-smol}  -->
+
+<!-- &emsp;**Košice**  
+&emsp;Poliklinika nad Jazerom  
+&emsp;Spišské nám. 4  
+&emsp;endokrinologia@centrum.sk  
+&emsp;0915 714 419  -->
+
+* * *
+
+<!--[MUDr. Zuzana Jančúchová](https://endiaz.webnode.sk/){.pixel-button-smol}  -->
+
+<!-- &emsp;**Žilina**   
+&emsp;M.R.Štefánika 822/11  
+&emsp;041/ 40 000 50 volať od 9:00 do 11:00  
+&emsp;jancuchova.ambulancia@gmail.com -->
+
+* * *
+
+<!-- [MUDr. Ivana Jochmanová](){.pixel-button-smol}  -->
+
+<!-- &emsp;**Košice**  
+&emsp;Univerzitná nemocnica L. Pasteura, Trieda SNP 1  
+&emsp;055/640 3502, volať medzi 14:00 - 14:30    
+&emsp;Nová poskytovateľka, prosím napíšte vaše skúsenosti na [tranziciask@protonmail.com](mailto:tranziciask@protonmail.com) -->
+
+
