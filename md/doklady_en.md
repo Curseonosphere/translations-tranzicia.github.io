@@ -8,7 +8,7 @@
 **Actualized in December, 2025**
 
 <!-- Stále sa oplatí skúšať zmeniť doklady, prípadne to riešiť súdnou cestou! -->
-It is still worth it to try to change your documents, taking legal action of needed!
+It is still worth it to try to change your documents, taking legal action if needed!
 
 <!-- Ak vám nevybavia žiadosť o zmenu rodného čísla pýtajte si rozhodnutie písomne. Ak odmietnu aj to podajte na mieste túto žiadosť: -->
 If they do not process your request to change your personal identification number (rodné číslo), then ask for that decision in writing. If they refuse even that, submit the following application right then and there:
@@ -94,7 +94,10 @@ Odtlačok pečiatky ošetrujúceho lekára s označením špecializácie lekára
 V .........................dňa ..............................
 
 \* nehodiace prečiarknite
+
 (\* cross out what does not apply)
+
+---
 
 <!-- V rámci žiadosti treba mať zmenu pohlavia AJ zmenu mena na aké si vyberieš. Matrikárky takéto niečo robia častokrát prvý krát a nevedia ako má žiadosť vyzerať, všetko si dobre skontroluj. Ak chceš nechať neutrálne meno ktoré máš, nemusíš si ho teraz meniť. Na matrike si od teba vypýtajú starý rodný list, ktorý skartujú. -->
 The application must include both a change of legal sex and a change of name to one of your choosing. Civil registry (matrika) officials are often handling such requests for the very first time and may not know exactly what the application should look like, so be sure to double-check everything yourself. If you wish to keep a gender-neutral name that you already have, you do not need to change it at this time. At the registry office, they will ask for your original birth certificate, which they will then destroy.
@@ -104,6 +107,8 @@ Leave your phone number or email address with the registrar; they will contact y
 
 <!-- Po tom čo matrika vykoná zmeny si môžeš ísť vypýtať na hociktorú matriku nový rodný list (5eur). S ním zájdeš k policajtom po nový občiansky (7eur), ktorý ti zoberú starý preukaz, lebo je neplatný. Dajú ti papier že si vybavuješ nový, s ktorým sa môžeš preukazovať. Odporúčam zvážiť priplatiť si za skoršie vydanie nového dokladu. S týmto treba obehať všetky inštitúcie kde ťa vedú pod starým rodným číslom. Sociálna poisťovňa a zdravotná poisťovňa by tieto údaje mali vedieť. -->
 Once the registry office has processed the changes, you can go to any registry office to request a new birth certificate (5 euros). You then take this to the police to apply for a new national ID card (7 euros); they will take your old ID card, as it is no longer valid. They will provide you with a document confirming that you are in the process of obtaining a new ID, which you can use for identification purposes. You may want to consider paying an extra fee to have the new document issued more quickly. You will then need to visit all the institutions where you are registered under your old personal identification number (birth number) to update your details. This includes, for example, the Social Insurance Agency (Sociálna poisťovňa) and your health insurance company.
+
+***
 
 <!-- Zákon neurčuje žiadne iné podmienky. Teoreticky by mal stačiť posudok od psychiatričky o zmene pohlavia. Prakticky si ale matriky určujú špeciálne **nezákonné** podmienky zmeny, spravidla chirurgický zákrok. Ak ho nemáš a pýtajú ho po tebe, vypýtaj si od nich písomné vyjadrenie prečo ti zmenu zamietli. Ak sú splnené zákonom dané podmienky, ich odôvodnenie bude proti zákonu a úspešne právne napadnuteľné, môžeš napríklad kontaktovať neziskovku Inakosť, kde ti právnik pomôže zostaviť žalobu. -->
 The law does not specify any other conditions. In theory, the professional opinion of a psychiatrist regarding gender transition should suffice. In practice, however, civil registry offices often impose their own specific—and **unlawful**—requirements for the change, typically demanding a surgical procedure. If you do not have one and they ask for it, request a written statement from them explaining why they denied your request. If the statutory requirements have been met, their justification will be unlawful and can be successfully challenged in court; for instance, you could contact the non-profit organization Inakosť, where a lawyer can assist you in drafting a legal complaint.
