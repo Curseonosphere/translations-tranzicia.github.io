@@ -38,16 +38,23 @@ During your transition, you can change your name to a gender-neutral one. Civil 
 The procedure costs 140 euros. It costs half that amount if you submit it electronically.
 
 <!-- Psychiatrička ti vystaví papier s žiadosťou, aby tento výkon urobili, ten si budú na úrade pýtať. [Dá sa aj bez papiera na iné dôvody](https://www.minv.sk/?matrika-zmena-mena-a-priezviska), ale posúdenie a schválenie závisí od matriky. -->
+A psychiatrist will provide you with a document requesting the administrative procedure; the office staff will request to see this. [It is also possible to apply without such a document based on other grounds](https://www.minv.sk/?matrika-zmena-mena-a-priezviska), but the assessment and approval are at the discretion of the registry office.
 
 <!-- Ak chceš využiť túto možnosť, musíš mať aktivovaný občiansky preukaz s čipom a príslušným PUK kódom, čítačku kariet (dá sa kúpiť v elektre) a prístup do slovensko.sk. [Link na žiadosť](https://portal.minv.sk/wps/wcm/connect/sk/site/main/zivotne-situacie/matrika-zivotna-udalost/ziadost-zmena-mena-priezviska-ine+zmeny-opravy/podanie-ziadosti-o-zmenu-mena-zmenu-rodneho-priezviska/). -->
+<!-- TODO: link broken, redirects to main page -->
+If you wish to take advantage of this option, you must have an activated national ID card (občiansky preukaz) with a chip and corresponding PUK code, a card reader (available for purchase at electronics stores), and access to the slovensko.sk portal. [Link to the request](https://portal.minv.sk/wps/wcm/connect/sk/site/main/zivotne-situacie/matrika-zivotna-udalost/ziadost-zmena-mena-priezviska-ine+zmeny-opravy/podanie-ziadosti-o-zmenu-mena-zmenu-rodneho-priezviska/).
 
 <!-- Ako dôvod treba uviesť, že u osoby prebieha zmena pohlavia. -->
+As the reason you should state that the individual is undergoing gender transition: "u osoby prebieha zmena pohlavia"
 
 <!-- Ak vybavuješ podanie osobne, treba zájsť na [okresný úrad (podľa súčasného trvalého bydliska!)](https://www.minv.sk/?zmena-mena-alebo-priezviska-ouke) podať žiadosť o zmenu mena a po jej schválení ísť na matriku (podľa súčasného trvalého bydliska) zmeniť meno. Na matrike si od teba vypýtajú starý rodný list, ktorý skartujú. -->
+If you are handling the submission in person, you must go to the [district office (okresný úrad) (based on your current permanent residence!)](https://www.minv.sk/?zmena-mena-alebo-priezviska-ouke) to submit an application for a name change. Once it is approved, you must go to the registry office (matrika) (again, based on your current permanent residence) to have the name changed. At the registry office, they will ask for your old birth certificate (rodný list), which they will then destroy.
 
 <!-- Po schválení a vykonaní zmeny si môžeš prísť po rodný list na ktorúkoľvek matriku (5 eur) a s ním podať žiadosť o nový občiansky (7 eur). -->
+Once the change has been approved and processed, you can pick up your birth certificate (rodný list) at any registry office (matrika) (5 euros) and use it to apply for a new national ID card (7 euros).
 
 <!-- ## Zmena mena a pohlavia -->
+## Changing of name and gender
 
 <!-- V súčasnosti platí stále [zákon o rodnom čísle](https://www.zakonypreludi.sk/zz/1995-301#p8) kde sa uvádza: *"Ministerstvo vykoná na požiadanie zmenu rodného čísla, na základe lekárskeho posudku o zmene pohlavia osoby."* -->
 
